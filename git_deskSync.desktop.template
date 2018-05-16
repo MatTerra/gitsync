@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=git_sync
+Exec=/home/mateus/Downloads/gitsync/git_sync.sh
+X-GNOME-Autostart-enabled=true
+Terminal=true
